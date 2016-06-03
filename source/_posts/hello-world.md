@@ -1,38 +1,31 @@
 ---
-title: Hello World lgcsser
+title: hexo 使用指南
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+***
+https://hexo.io/官网地址
 
-## Quick Start
+## hexo前置环境
+* nodejs和npm包管理工具
+* git
 
-### Create a new post
+## hexo前置技能
+- github账号
+- ssh配置
+- 开源项目github托管
+- Markdown编辑语法类似wiki
 
-``` bash
-$ hexo new "My New Post"
+## hexo命令工具
 ```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
+1.hexo innit 工程名称
+2.hexo server 开启本地服务
+3.hexo generate 静态化文件
+4.hexo 部署命令
+5.hexo new 文章名称
 ```
+**参考资源**
+http://www.open-open.com/lib/view/open1414396787325.html git使用指南
+http://www.jianshu.com/p/1e402922ee32/  Markdown——入门指南
+http://jingyan.baidu.com/album/f7ff0bfc7181492e27bb1360.html?picindex=2 开源项目放入github托管
 
-More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+*Author:lgsser*
