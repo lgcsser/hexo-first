@@ -41,4 +41,4 @@ npm install express          # 本地安装
 npm install express -g   # 全局安装
 ```
 
-**Athour：lgcsser**
+**Auhor：lgcsser**

@@ -29,5 +29,4 @@ http://jingyan.baidu.com/album/f7ff0bfc7181492e27bb1360.html?picindex=2 开源�
 http://qjzhixing.com/2015/08/26/ hexo搭建静态博客
 
 
-
-*Author:lgsser*
+**Author：lgcsser**
