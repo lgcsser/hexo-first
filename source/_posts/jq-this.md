@@ -32,3 +32,5 @@ function() {
 });
 ```
 使用JQuery的好处是它包裝了各种浏览器版本对DOM对象的操作，因此统一使用$(this)而不再用this应该是比较不错的选择。
+
+**Author：lgcsser**

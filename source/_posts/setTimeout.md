@@ -17,3 +17,4 @@ setTimeout('console.log"2"',1000);//1000毫秒是1秒
 console.log('3')
 ```
 结果是1,3,2因为setTimeout指定第二条语句延迟1s执行。
+**Author：lgcsser**
